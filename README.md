@@ -1,5 +1,4 @@
-# challenge-1
--Enes Malik Kara-
+# Responsive Website
 
 HTML, CSS, JS ile yaptığım bir proje.
 Bootstrap yok. Bütün stilleri kendim uyguladım. Responsive yapısını kendim kurdum.
